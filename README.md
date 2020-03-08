@@ -1,5 +1,6 @@
 # MIS500-Critical-Thinking-Assignment-1
 Installing Python and Running a Data Set Exploration in PyCharm Edu Program
+
 In this Critical Thinking Assignment, after following the instructions to create a GitHub account at https://github.com/ (Links to an external site.), upload your working project to the GitHub repository to make your code public and accessible. In this way, future employers or colleagues can see your work.
 
 Next, download and run a Python IDE- PyCharm Edu on your computer. PyCharm Edu is free and open source. Licensed under Apache License, Version 2.0., PyCharm Edu can be downloaded and installed following the Python Programming Language Installation Instructions found in the Course Resources folder.
