@@ -1,10 +1,3 @@
-# MIS500-Critical-Thinking-Assignment-1
-Installing Python and Running a Data Set Exploration in PyCharm Edu Program
-
-In this Critical Thinking Assignment, after following the instructions to create a GitHub account at https://github.com/ (Links to an external site.), upload your working project to the GitHub repository to make your code public and accessible. In this way, future employers or colleagues can see your work.
-
-Next, download and run a Python IDE- PyCharm Edu on your computer. PyCharm Edu is free and open source. Licensed under Apache License, Version 2.0., PyCharm Edu can be downloaded and installed following the Python Programming Language Installation Instructions found in the Course Resources folder.
-
 Instructions to Compile Code Program
 
 You will create a new project. Type in the following program and run it to produce the output for the program. Good practice in writing a program in any language, including Python, is to add comments for each line and state clearly what is the program input and output. Your program must include comments, so a reader will know exactly what you are trying to do in each line of code and allow for easy maintenance. Beginning a line with a hash (#) character results in a single line comment and automatically terminated by the end of line. Comments that span multiple lines can be created by adding a triple quote (""") on each end of the block of comments.  You will use PyCharm Edu to run the following Python program. The process must finish with exit code 0.
@@ -68,9 +61,7 @@ print df['iq'].describe()
 
 #END
 
- 
-
-Python requires great attention to spacing. The program must run without error.
+ Python requires great attention to spacing. The program must run without error.
 
 Your assignment submission in a Word document must include:
 
