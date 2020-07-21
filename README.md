@@ -1,3 +1,4 @@
+# MIS500-Data-Exploration-in-PyCharm-Edu
 Instructions to Compile Code Program
 
 You will create a new project. Type in the following program and run it to produce the output for the program. Good practice in writing a program in any language, including Python, is to add comments for each line and state clearly what is the program input and output. Your program must include comments, so a reader will know exactly what you are trying to do in each line of code and allow for easy maintenance. Beginning a line with a hash (#) character results in a single line comment and automatically terminated by the end of line. Comments that span multiple lines can be created by adding a triple quote (""") on each end of the block of comments.  You will use PyCharm Edu to run the following Python program. The process must finish with exit code 0.
